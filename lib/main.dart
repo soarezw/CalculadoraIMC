@@ -106,7 +106,7 @@ class _CalculatorState extends State<Calculator> {
               style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
             ),
             Text(
-              'Giovanna Cristina n°09 - Lana n°19',
+              'Daniel Soares n°5',
             ),
           ],
         ),
